@@ -12,7 +12,7 @@ function preload(){
 bgimg=loadImage("image/space.png")
 playerjetimg=loadAnimation("image/jet 1.png","image/jet 2.png","image/jet4.png","image/jet5.png","image/jet6.png");
 enemyimg=loadAnimation("image/enemy1.png","image/enemy2.png","image/enemy3.png");
-bulletimg=loadImage("image/bullet33.png")
+bulletimg=loadImage("image/bullet3.png")
 }
 
 function setup() {
